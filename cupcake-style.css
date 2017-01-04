@@ -1,0 +1,14 @@
+h2.fancy{
+  color:red;
+  font-style: italic;
+}
+
+h2.best{
+  color:green;
+  font-family: fantasy;
+  font-weight: bolder;
+}
+
+img{
+  width: 400px;
+}
